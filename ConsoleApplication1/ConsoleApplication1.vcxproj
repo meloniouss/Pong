@@ -133,6 +133,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ball.h" />
+    <ClInclude Include="Paddle.h" />
+    <ClInclude Include="raylib.h" />
+    <ClInclude Include="Score.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\raylib.5.0.0\build\native\raylib.targets" Condition="Exists('..\packages\raylib.5.0.0\build\native\raylib.targets')" />
