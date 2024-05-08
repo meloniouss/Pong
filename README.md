@@ -26,7 +26,6 @@
 
 4. **Scoring**:
    - Points are awarded to the opposing player each time the ball passes beyond their paddle and touches the wall behind them.
-   - The first player to reach a predetermined score wins the game.
 
 ## Building and Running the Game
 
