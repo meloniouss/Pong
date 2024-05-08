@@ -8,6 +8,7 @@
 - **Paddles**: Two paddles are present on the left and right sides of the screen, controlled by the players. The paddles deflect the ball when it collides with them.
 - **Scoring System**: A scoring system keeps track of each player's score, incrementing when the opponent misses the ball.
 - **Collision Detection**: The game incorporates collision detection to detect when the ball collides with the paddles or walls, allowing for realistic gameplay.
+![image](https://github.com/meloniouss/Pong/assets/88588089/fbca05ad-8d6d-44e4-8643-7fd45cbd0cf3)
 
 ## How to Play
 
