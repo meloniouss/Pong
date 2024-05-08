@@ -28,14 +28,11 @@
    - Points are awarded to the opposing player each time the ball passes beyond their paddle and touches the wall behind them.
 
 ## Building and Running the Game
-
-1. **Install raylib**:
-   - Before building the game, make sure to install the raylib library on your system. You can find instructions for installing raylib [here](https://github.com/raysan5/raylib/wiki/Working-on-Linux).
-
-2. **Compile the Game**:
+0. **Install RayLib (Optional)**
+1. **Compile the Game**:
    - Compile the game using your preferred C++ compiler, ensuring that you link the raylib library appropriately.
 
-3. **Run the Game**:
+2. **Run the Game**:
    - Execute the compiled executable to launch the game.
 
 ## Credits
